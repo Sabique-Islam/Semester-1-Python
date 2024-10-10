@@ -6,12 +6,12 @@
 1. Clone the repository to your local machine using the following command:
    
    ```bash
-    git clone https://github.com/Sabique-Islam/Semester-1-Python.git
+   git clone https://github.com/Sabique-Islam/Semester-1-Python.git
 
 2. Navigate to the cloned folder:
 
    ```bash
-    cd Semester-1-Python
+   cd Semester-1-Python
 
 3. Run the Python scripts using:
 
