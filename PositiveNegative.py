@@ -14,5 +14,5 @@ else:
     print("PLease enter a valid number...") 
 
 # Issues: - 
-# When input is a negative integer, else statement is executed along with it.
+# When input is a negative integer, else statement is being executed.
 # Issue is fixed :)
